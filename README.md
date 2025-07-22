@@ -1,8 +1,7 @@
-Puedes visualizar el proyecto completo siguiendo este enlace ➡ https://jhon-holden.netlify.app/
+Proyecto clone de la website de Jhon Holden 
 <br>
+<img width="1894" height="861" alt="image" src="https://github.com/user-attachments/assets/226deba9-cd14-4de8-83be-279e35aad0fe" />
+<br>
+<img width="1886" height="874" alt="image" src="https://github.com/user-attachments/assets/2e5a561a-2784-48fe-837c-68e2c1f80154" />
 
-
-![image](https://github.com/user-attachments/assets/076d4605-575a-4b3c-84d4-39df01c44d5e)
-![image](https://github.com/user-attachments/assets/f0a125eb-7cfa-4c14-8abb-a0564cb500bd)
-![image](https://github.com/user-attachments/assets/33b41ce8-e3ad-48f2-bf6a-a0cc73b5e612)
 
